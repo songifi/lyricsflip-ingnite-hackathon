@@ -51,10 +51,9 @@ While LyricFlip was originally developed as a React Native app, this hackathon e
 
 ## Contributors
 
-- **Lead Developer & PM:** [@songifi](https://github.com/songifi)
-- **Smart Contract Engineer:** [Your Name or GitHub handle]
-- **Mobile UI & Integration:** [Your Name or GitHub handle]
-- **Game Design & UX:** [Your Name or GitHub handle]
+- **Lead Developer & PM:** [@Xaxxoo](https://github.com/xaxxoo)
+- **Smart Contract Engineer:**[manlikeHB][ https://github.com/xaxxoo
+- **Frontend, Mobile UI & Integration & UX:** [Peteroche](https://github.com/peteroche)
 
 
 ## Submission Note
