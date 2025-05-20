@@ -1,6 +1,4 @@
-# 🎵 LyricFlip – The On-chain Lyric Guessing Game
-
-**Hackathon Submission Repository**
+# 🎵 LyricFlip – Hackathon Submission Repository
 
 This repository serves as the central hub for our LyricFlip hackathon submission. LyricFlip is an on-chain lyric guessing game that challenges players to identify songs based on partial lyrics. Think of it as a music trivia meets blockchain — fast-paced, multiplayer, and decentralized!
 
