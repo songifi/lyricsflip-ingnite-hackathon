@@ -36,7 +36,7 @@ All source code for LyricFlip is distributed across multiple repositories. This 
 -  Provides a browser-based interface for users to interact with the smart contracts and manage game sessions.
 
 ###  Smart Contract Logic (Dojo on Starknet)
--  **Repo:** [lyricsflip_contract](https://github.com/songifi/lyricsflip_contract)
+-  **Repo:** [lyricsflip_contract](https://github.com/songifi/dojo-ignite-hackathon)
 -  All on-chain logic, game flow, and state management is implemented here using Cairo with the Dojo framework.
 
 ###  Original Mobile Version (React Native)
