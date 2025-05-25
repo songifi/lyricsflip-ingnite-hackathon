@@ -31,7 +31,7 @@ All source code for LyricFlip is distributed across multiple repositories. This 
 -  Handles mobile interaction, real-time gameplay, and integrates with Dojo contracts.
 
 ###  Web Frontend (Next.js + Cartridge)
--  **Repo:** [lyricsflip_frontend](https://github.com/songifi/lyricsflip_frontend)
+-  **Repo:** [lyricsflip_frontend](https://github.com/songifi/frontend-ignite-hackathon)
 -  Built with Next.js and tailored for **Cartridge track** integration.
 -  Provides a browser-based interface for users to interact with the smart contracts and manage game sessions.
 
